@@ -1,0 +1,21 @@
+name: en685648
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - scipy
+  - matplotlib
+  - tabulate
+  - pandas
+  - seaborn
+  - scikit-learn
+  - statsmodels
+  - pymc3
+  - beautifulsoup4
+  - xlrd
+  - jupyter
+  - jupyterlab
+  - ipython
+  - ipykernel
+  - pandasql
