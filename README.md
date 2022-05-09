@@ -11,6 +11,9 @@ Source data [Data Science and STEM Salaries](https://www.kaggle.com/datasets/jac
 
 [get_data.ipynb](./get_data.ipynb)
 
+[get_data_README.md](./get_data_README.md)
+
+
 ## EXPLORE
 
 [eda.ipynb](./eda.ipynb)
